@@ -1,0 +1,38 @@
+[
+    {
+    "course" : "180.351562",
+    "speed" : "3.320000",
+    "horizontalAccuracy" : "5.000000",
+    "latitude" : "39.902136",
+    "longtitude" : "116.44095",
+    "altitude" : "45.062398",
+    "timestamp" : "2015-12-10 13:09:22 +0000"
+    },
+     {
+     "course" : "175.781250",
+     "speed" : "3.130000",
+     "horizontalAccuracy" : "5.000000",
+     "latitude" : "39.902136",
+     "longtitude" : "116.42095",
+     "altitude" : "44.868268",
+     "timestamp" : "2015-12-10 13:09:18 +0000"
+     },
+     {
+     "course" : "190.195312",
+     "speed" : "2.970000",
+     "horizontalAccuracy" : "5.000000",
+     "latitude" : "39.832136",
+     "longtitude" : "116.42095",
+     "altitude" : "44.880721",
+     "timestamp" : "2015-12-10 13:09:14 +0000"
+     },
+     {
+     "course" : "209.531250",
+     "speed" : "2.950000",
+     "horizontalAccuracy" : "5.000000",
+     "latitude" : "39.832136",
+     "longtitude" : "116.34095",
+     "altitude" : "44.775350",
+     "timestamp" : "2015-12-10 13:09:11 +0000"
+     }
+]
